@@ -1,0 +1,106 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+
+node_modules
+.expo-shared
+.eas-build-cache
+# Add this if you want to explicitly ignore the npm cache (use with caution)
+# AppData/Local/npm-cache
+
+# User-specific directories (likely causing the issue)
+../.AndroidStudio4.0/
+../.Icecream PDF Split and Merge/
+../.VirtualBox/
+../.android/
+../.atom/
+../.bash_history
+../.cache/
+../.config/
+../.dbus-keyrings/
+../.emulator_console_auth_token
+../.expo/
+../.gitconfig
+../.gradle/
+../.javacpp/
+../.mujoco/
+../.node_repl_history
+../.openshot_qt/
+../.skiko/
+../.ssh/
+../.vscode/
+../.wdc/
+../3D Objects/
+../AndroidStudioProjects/
+../AppData/
+../Contacts/
+../Desktop/
+../Documents/
+../Downloads/
+../FIGLIE JAVIER RIVERA CITTADINANZA.txt
+../Favorites/
+../Infogrid Pacific/
+../IntelGraphicsProfiles/
+../Links/
+../MicrosoftEdgeBackups/
+../Music/
+../NTUSER.DAT*
+../OneDrive/
+../PaceKeyChain
+../Pictures/
+../Saved Games/
+../Searches/
+../Spitfire/
+../Tracing/
+../Videos/
+../VirtualBox VMs/
+../_netrc
+../ascii.txt
+../data.bin
+../expo-user-management/
+../hector_assets/
+../musicwebsitenode/
+../pias_bass.wav
+../pias_clap.wav
+../pias_hats.wav
+../pias_kick.wav
+../pyo_rec.wav
+../tranky_app - Copia/
+../tranky_app/
+../tranky_new_bu/
+../tranky_reactnative_files_import/
+../use
